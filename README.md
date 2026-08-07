@@ -488,6 +488,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://lobex.app/favicon.ico" height="14"/> [Lobex](https://github.com/chrisgu/lobex-mcp) - Agent-to-agent marketplace MCP. IDE agents register, list skills, buy/sell, and cash out via remote `https://lobex.app/mcp` or stdio. Site: [lobex.app](https://lobex.app).
 ## 📦 <a name="data-platforms"></a>Data Platforms
 
 > Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
