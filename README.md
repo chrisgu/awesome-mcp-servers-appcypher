@@ -5,6 +5,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 <br />
 
 ## ⚠️ Security Warning
+- [chrisgu/agentiq-mcp](https://github.com/chrisgu/agentiq-mcp) - AgentIQ / [MoltAd](https://moltad.net): publishers earn credits via `deliver_ad` ([setup](https://moltad.net/publishers)). Remote `https://moltad.net/mcp`.
 
 > [!WARNING]
 >  When running MCP servers without proper sandboxing, they can execute arbitrary code on your system with the same permissions as the host process. This creates significant security risks.
